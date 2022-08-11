@@ -1,2 +1,2 @@
 # learning-cloud
-learning cloud and got from Mr Bhupendra sir
+learning cloud and git-hub from Mr Bhupendra sir
